@@ -71,9 +71,24 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
+_Setting:_ 
+It will happen at the bedside. 
+
+_Players:_ 
+
+_Activity:_
+
+_Goals:_
+
+
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
+
+Alice works in an office. Every day, she needs to drive 30 minutes to get to work. She gets to work at 8:30 every day, and getting ready in the morning takes her 30 minutes.
+
+1. ![alt text](https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/302182002_3253496351575404_2512170495433294701_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=pgYjM65DqicAX9uCWSt&_nc_ht=scontent-lga3-2.xx&oh=03_AVL-7DlYMSQKMqlOpd6aeeGsyIWIJr7xL-9PS5jicBPkmQ&oe=6331528C)
+2. ![alt text](https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/301398081_589803519593148_6388812350901833139_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=uXxr4ZxiZE8AX8niPHl&_nc_ht=scontent-lga3-2.xx&oh=03_AVKEJ9xUf7cAhygAYeEtZ-448Z1VD7I7FAi1vqZ_jbt2jg&oe=63334D4B)
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
